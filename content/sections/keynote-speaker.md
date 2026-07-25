@@ -69,8 +69,7 @@ list:
       strengthen the human capabilities AI cannot replicate: trust, culture,
       judgment, adaptability, and leadership under pressure."
   - badge: AI, Identity & Leadership
-    title: "**03** What Happens When AI Becomes Better Than You At The Thing That
-      Made You Valuable?"
+    title: "**03** AI Won't Replace You. Not Reinventing Will."
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
