@@ -104,7 +104,7 @@ list:
       redefined in real time. Leaders who adapt internally will outperform those
       who only adapt operationally.
   - badge: Motivation & Culture
-    title: "**04** A Game-Changing Mindset: It's Not Business, It's Personal"
+    title: "**04** New Mindset: It's Not Business, It's Personal"
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /Founder Stories.jpg
     imageAlt: keynotes image
