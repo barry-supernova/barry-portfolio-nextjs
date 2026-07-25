@@ -34,7 +34,7 @@ list:
       fastest psychologically, strategically, and culturally will shape the next
       era of business and society.
   - badge: Leadership, Culture & Human Performance
-    title: "**02** AI Is Making Humans More Valuable"
+    title: "**02** The Human Edge: How Leaders Evolve and Win in the Age of AI"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
