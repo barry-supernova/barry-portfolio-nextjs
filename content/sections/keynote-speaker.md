@@ -122,7 +122,7 @@ list:
       - title: "Heart-Led Leadership: Learn how traveling inward can lead to greater
           fulfillment and balance, bridging the gap between material success and
           spiritual well-being."
-      - title: "Transformation at Work : Discover how combining ancient wisdom with
+      - title: "Transformation at Work: Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
           and bring about profound personal growth."
       - title: "Practical Transformation Tools: Gain actionable insights into the
