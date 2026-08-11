@@ -19,4 +19,6 @@ A 3x exited founder and operator, Barry founded INBOX Marketing, which became Re
 
 After decades across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI grows infinitely more powerful. **It's that humans fail to evolve alongside it.**&#x20;
 
-He speaks from both sides of this disruption: the technology and the humans running it. He's not here to explain AI. He's here to prepare leaders for what it demands of them. *This is the conversation most stages haven't had yet.*
+He speaks from both sides of this disruption: the technology and the humans running it.&#x20;
+
+*This is the conversation most stages haven't had yet.*
