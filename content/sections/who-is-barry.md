@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Meet Barry Stamos"
-image: /images/Barry Stamos Bio Photo.png
+image: /images/Barry-Stamos-Intro-Black-1400.jpg
 name: "Founder. Operator. Investor. "
 designation: '"Disruption is what I do. Human transformation is why."'
 linkedin:
