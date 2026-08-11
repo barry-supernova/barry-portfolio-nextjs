@@ -14,10 +14,10 @@ Barry doesn't teach people how to use AI. He challenges them to become the kind 
 
 Most AI talks focus on trends, tools, prompts, and productivity.
 
-Barry speaks about the human consequences of AI.
+Barry focuses on what AI is doing to us.&#x20;
 
-His talks address the deeper shift underneath: what happens to leadership, trust, identity, relationships, and meaning in an era where machines increasingly outperform humans at execution.
+His talks address the deeper shift beyond the technology: what happens to leadership, trust, identity, relationships, and meaning in an era where machines increasingly outperform humans at execution.
 
-Drawing on decades building successful companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
+Drawing on decades building and scaling companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
-Audiences leave knowing what it means to evolve (not just adapt) and what it costs not to.
+Audiences leave with a clearer understanding of what this moment demands, what it means to evolve (not just adapt), and what it costs not to.
