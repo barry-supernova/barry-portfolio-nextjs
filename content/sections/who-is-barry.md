@@ -15,7 +15,7 @@ button:
 ---
 ​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has spent 25+ years building, scaling, and exiting companies through waves of technology disruption and human transformation.&#x20;
 
-A 3x exited founder and operator, Barry founded INBOX Marketing, which became Responsys, went public (IPO), and was acquired by Oracle for $1.5B. At Acxiom, he built a new business unit from zero to $318 million before being acquired by IPG for $2.3B. He co-founded 1heart, a startup studio and human accelerator for CEO's and leaders with 1,000+ alumni worldwide.&#x20;
+A 3x exited founder and operator, Barry founded INBOX Marketing, which became Responsys, went public (IPO), and was acquired by Oracle for $1.5B. At Acxiom, he built a new business unit from zero to $318 million before being acquired by IPG for $2.3B. He co-founded 1heart, a startup studio and human accelerator for CEO's and heart-led leaders with 1,000+ alumni worldwide.&#x20;
 
 After decades across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI grows infinitely more powerful. **It's that humans fail to evolve alongside it.**&#x20;
 
