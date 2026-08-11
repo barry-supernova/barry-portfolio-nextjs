@@ -18,11 +18,11 @@ topList:
   - image: /images/WhatsApp Image 2024-11-19 at 6.32.54 PM.jpeg
     alt: ""
 bottomList:
-  - image: /images/Barry-Stamos-Headshot-Gold-Deep-900.jpg
+  - image: /images/Barry-Stamos-Headshot-Cyan-Mono-900.jpg
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
-  - image: /images/barry.png
+  - image: /images/Bio-8.JPG
     alt: ""
   - image: /Barry Stamos Plane.JPG
     alt: ""
