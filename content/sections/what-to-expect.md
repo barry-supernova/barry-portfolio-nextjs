@@ -4,7 +4,7 @@ enable: true
 title: NOT ANOTHER **AI TALK**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
 quote: '“Leaders must evolve, not just adapt.”'
-name: KEYNOTE EXPERIENCES
+name: KEYNOTE EXPERIENCE
 button:
   enable: true
   label: Most Popoular Talks
