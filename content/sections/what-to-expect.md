@@ -18,4 +18,4 @@ Drawing on decades of building and scaling companies through major technology sh
 
 His talks address the deeper shift beneath the technology: leadership, trust, identity, relationships, and meaning in an era where machines increasingly outperform humans.
 
-Audiences leave with clarity on what this moment demands of them, how to evolve not just adapt, and what it may cost if humans fail to keep pace with the technology they create.
+Audiences leave with clarity on what this moment demands, how to evolve rather than merely adapt, and what it may cost if humans fail to keep pace with the technology they create.
