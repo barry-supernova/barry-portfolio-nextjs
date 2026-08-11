@@ -22,4 +22,4 @@ His talks address the deeper shift beyond the technology: what happens to leader
 
 Audiences leave with a clearer understanding of what this moment demands, what it means to evolve (not just adapt), and what it costs not to.
 
-He doesn't teach people how to use AI. He challenges them to become the kind of humans capable of leading in an AI world.&#x20;
+He challenges them to become the kind of humans capable of leading in an AI world.&#x20;
