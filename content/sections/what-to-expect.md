@@ -16,6 +16,6 @@ Most AI talks focus on trends, tools, prompts, and productivity. He's here to pr
 
 Drawing on decades of building and scaling companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind. Barry challenges them to become the kind of humans capable of leading in an AI world.
 
-His talks address the deeper shift beneath the technology: what happens to leadership, trust, identity, relationships, and meaning in an era where machines increasingly outperform humans at execution.
+His talks address the deeper shift beneath the technology: what's happening to leadership, trust, identity, relationships, and meaning in an era where machines increasingly outperform humans.
 
 Audiences leave with a clearer understanding of what this moment demands of them, how to evolve (not just adapt), and what happens if humans fail to keep pace with the technology they create.
