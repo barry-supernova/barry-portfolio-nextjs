@@ -10,7 +10,7 @@ button:
   label: Most Popoular Talks
   link: /#keynote-speaker
 ---
-Barry focuses on what AI is doing to us.&#x20;
+Barry focuses on what AI is doing to us.
 
 He speaks from both sides of this disruption: the technology and the humans running it.&#x20;
 
