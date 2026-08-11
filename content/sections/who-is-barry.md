@@ -13,7 +13,7 @@ button:
   label: "Talk to Barry "
   link: https://calendly.com/stamos
 ---
-​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has invested 25+ years building, scaling, and exiting companies through waves of technology disruption and human transformation.&#x20;
+​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has spent 25+ years building, scaling, and exiting companies through waves of technology disruption and human transformation.&#x20;
 
 He's not here to explain AI. He's here to prepare leaders for what it demands of them.
 
