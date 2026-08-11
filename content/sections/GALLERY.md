@@ -7,7 +7,7 @@ animationSpeedForBottom: 120s
 topList:
   - image: /images/Screenshot 2025-01-06 at 8.43.30 AM.png
     alt: gallery image
-  - image: /images/gallery/02.png
+  - image: /images/Barry-Stamos-2026-08-11-7.jpeg
     alt: gallery image
   - image: /images/gallery/05.png
     alt: gallery image
