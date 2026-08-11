@@ -14,25 +14,25 @@ topList:
   - image: /images/gallery/06.png
     alt: gallery image
   - image: /images/Selfie.jpg
-    alt: ''
+    alt: ""
   - image: /images/WhatsApp Image 2024-11-19 at 6.32.54 PM.jpeg
-    alt: ''
+    alt: ""
 bottomList:
-  - image: /flyer.jpeg
+  - image: /images/Barry-Stamos-Headshot-Gold-Deep-900.jpg
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
   - image: /images/barry.png
-    alt: ''
+    alt: ""
   - image: /Barry Stamos Plane.JPG
-    alt: ''
+    alt: ""
   - image: /MastersofScaleSummit2024.jpg
-    alt: ''
+    alt: ""
   - image: /images/Barry Check.jpeg
-    alt: ''
+    alt: ""
   - image: /carebear.JPG
-    alt: ''
+    alt: ""
   - image: /images/DJ.jpg
-    alt: ''
+    alt: ""
 ---
 
