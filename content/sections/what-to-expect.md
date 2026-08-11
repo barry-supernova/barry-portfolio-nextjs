@@ -10,8 +10,6 @@ button:
   label: Most Popoular Talks
   link: /#keynote-speaker
 ---
-Barry doesn't teach people how to use AI. He challenges them to become the kind of humans capable of leading in an AI world.&#x20;
-
 Most AI talks focus on trends, tools, prompts, and productivity.
 
 Barry focuses on what AI is doing to us.&#x20;
@@ -21,3 +19,7 @@ His talks address the deeper shift beyond the technology: what happens to leader
 Drawing on decades building and scaling companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
 Audiences leave with a clearer understanding of what this moment demands, what it means to evolve (not just adapt), and what it costs not to.
+
+Barry doesn't teach people how to use AI. He challenges them to become the kind of humans capable of leading in an AI world.&#x20;
+
+​
