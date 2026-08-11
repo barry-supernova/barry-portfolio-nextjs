@@ -15,6 +15,6 @@ button:
 ---
 ​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has founded, built, scaled, and sold billion-dollar companies through decades of technology disruption and human transformation. He's not here to explain AI. He's here to prepare leaders for what it demands of them.
 
-A 3x exited founder, he helped scale Responsys to a unicorn IPO and \$1.B exit to Oracle. He speaks from both sides of this disruption: the technology and the humans running it. _This is the conversation most stages haven't had yet._
+A 3x exited founder, his startup INBOX Marketing became Responsys (unicorn IPO and $1.B exit to Oracle), built a new business unit at Acxiom from zero to $318 million ($2.3B exit to IPG) and 1heart (startup studio and human accelerator with 1,000+ alumni). He speaks from both sides of this disruption: the technology and the humans running it. *This is the conversation most stages haven't had yet.*
 
 After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI grows infinitely more powerful. **It's that humans fail to evolve alongside it.**&#x20;
