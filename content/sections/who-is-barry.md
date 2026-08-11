@@ -13,8 +13,12 @@ button:
   label: "Talk to Barry "
   link: https://calendly.com/stamos
 ---
-​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has founded, built, scaled, and sold billion-dollar companies through decades of technology disruption and human transformation. He's not here to explain AI. He's here to prepare leaders for what it demands of them.
+​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has invested 25+ years building, scaling, and exiting companies through waves of technology disruption and human transformation.&#x20;
 
-A 3x exited founder, his startup INBOX Marketing became Responsys (unicorn IPO and $1.B exit to Oracle), built a new business unit at Acxiom from zero to $318 million ($2.3B exit to IPG) and 1heart (startup studio and human accelerator with 1,000+ alumni). He speaks from both sides of this disruption: the technology and the humans running it. *This is the conversation most stages haven't had yet.*
+He's not here to explain AI. He's here to prepare leaders for what it demands of them.
 
-After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI grows infinitely more powerful. **It's that humans fail to evolve alongside it.**&#x20;
+A 3x exited founder and operator, Barry founded INBOX Marketing, which became Responsys, went public (IPO), and was later acquired by Oracle for $1.5B. At Acxiom, he built a new business unit from zero to $318 million before being acquired by IPG for $2.3B. He later co-founded 1heart, a startup studio and human accelerator with 1,000+ alumni.&#x20;
+
+He speaks from both sides of this disruption: the technology and the humans running it. *This is the conversation most stages haven't had yet.*
+
+After decades across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI grows infinitely more powerful. **It's that humans fail to evolve alongside it.**&#x20;
