@@ -14,7 +14,7 @@ bio: >-
   conferences, corporate events, and leadership retreats, my talks empower
   audiences to rise to the moment, unlocking access to our higher selves and
   superpowers. It's our time to shine, solve the pressing challenges of our
-  time, and play a greater game.<br /><br />Let’s co-create an unforgettable
+  time, and play a greater game.<br /><br />Let’s create an unforgettable
   experience together.
 button:
   enable: true
