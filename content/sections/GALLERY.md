@@ -22,7 +22,7 @@ bottomList:
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
-  - image: /images/Barry-Stamos-Need better background.jpeg
+  - image: /images/Bio-9.JPG
     alt: ""
   - image: /Barry Stamos Plane.JPG
     alt: ""
@@ -30,7 +30,7 @@ bottomList:
     alt: ""
   - image: /images/Barry Check.jpeg
     alt: ""
-  - image: /carebear.JPG
+  - image: /images/Barry-Stamos-2026-08-11-1.jpeg
     alt: ""
   - image: /images/DJ.jpg
     alt: ""
